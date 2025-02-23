@@ -1,6 +1,8 @@
-remote_theme: jekyll-theme-cayman  # Replace with any supported theme
+remote_theme: jekyll-theme-cayman
 plugins:
   - jekyll-remote-theme
-title: My Awesome Blog
-author: Your Name
-description: A blog about tech and coding.
+
+title: "My Awesome Blog"
+author: "Your Name"
+description: "A blog about tech, coding, and tutorials."
+show_excerpts: true  # Shows post summaries on the homepage
